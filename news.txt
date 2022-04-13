@@ -1,0 +1,3 @@
+News - Owl Clicker v1.0
+ - Added Login System
+ - Improved Bugs
